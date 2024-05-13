@@ -1,4 +1,4 @@
-package edu.luisa.primeirasemana;
+package edu.luisa.anatomiaDeClasses;
 public class MinhaClasse {
     public static void main (String [] args) { 
 

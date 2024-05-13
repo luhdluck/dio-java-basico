@@ -1,4 +1,4 @@
-package edu.luisa.primeirasemana;
+package edu.luisa.anatomiaDeClasses;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 6;
