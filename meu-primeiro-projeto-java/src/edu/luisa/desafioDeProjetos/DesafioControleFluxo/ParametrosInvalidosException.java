@@ -1,4 +1,4 @@
-package edu.luisa.desafioDeProjetos.contaBanco.DesafioControleFluxo;
+package edu.luisa.desafioDeProjetos.DesafioControleFluxo;
 
 public class ParametrosInvalidosException extends Exception {
     public ParametrosInvalidosException() {

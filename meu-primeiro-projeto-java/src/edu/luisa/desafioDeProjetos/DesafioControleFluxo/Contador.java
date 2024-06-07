@@ -1,4 +1,4 @@
-package edu.luisa.desafioDeProjetos.contaBanco.DesafioControleFluxo;
+package edu.luisa.desafioDeProjetos.DesafioControleFluxo;
 
 import java.util.Scanner;
 
